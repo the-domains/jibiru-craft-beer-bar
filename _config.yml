@@ -1,0 +1,28 @@
+name: JiBiru Craft Beer Bar
+favicon: null
+layout_spectrum: 0.011696569388732314
+typography_spectrum: 0.6248202952556312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.28237281111069024
+  lightness: 0.8096056496724486
+  saturation: 0.9146918444894254
+  rhythmicContrast: 0.32156751747243106
+purpose: []
